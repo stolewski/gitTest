@@ -1,1 +1,1 @@
-console.log(x);
+const doc = document.querySelector(".con");
