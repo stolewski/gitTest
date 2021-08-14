@@ -1,1 +1,1 @@
-dfsdfsdfsdfonsolefdsdfsdfsdlog(x);
+console.log(x);
